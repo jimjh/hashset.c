@@ -1,0 +1,8 @@
+*.o
+*.tmp
+test_*
+preprocess
+*.pyc
+*.bin
+test/data
+level0
